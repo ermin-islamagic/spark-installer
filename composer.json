@@ -1,5 +1,5 @@
 {
-    "name": "laravel/spark-installer",
+    "name": "hamleet/spark-installer",
     "description": "Quick installer for Laravel Spark.",
     "keywords": ["laravel", "spark"],
     "license": "MIT",
